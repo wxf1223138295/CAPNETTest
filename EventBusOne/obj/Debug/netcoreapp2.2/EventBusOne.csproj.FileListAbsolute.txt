@@ -1,0 +1,15 @@
+F:\MyTest\ShawnMicroServer\Shawn.Host\EventBusOne\bin\Debug\netcoreapp2.2\EventBusOne.deps.json
+F:\MyTest\ShawnMicroServer\Shawn.Host\EventBusOne\bin\Debug\netcoreapp2.2\EventBusOne.runtimeconfig.json
+F:\MyTest\ShawnMicroServer\Shawn.Host\EventBusOne\bin\Debug\netcoreapp2.2\EventBusOne.runtimeconfig.dev.json
+F:\MyTest\ShawnMicroServer\Shawn.Host\EventBusOne\bin\Debug\netcoreapp2.2\EventBusOne.dll
+F:\MyTest\ShawnMicroServer\Shawn.Host\EventBusOne\bin\Debug\netcoreapp2.2\EventBusOne.pdb
+F:\MyTest\ShawnMicroServer\Shawn.Host\EventBusOne\bin\Debug\netcoreapp2.2\ShawnEventBus.dll
+F:\MyTest\ShawnMicroServer\Shawn.Host\EventBusOne\bin\Debug\netcoreapp2.2\ShawnEventBus.pdb
+F:\MyTest\ShawnMicroServer\Shawn.Host\EventBusOne\obj\Debug\netcoreapp2.2\EventBusOne.csprojAssemblyReference.cache
+F:\MyTest\ShawnMicroServer\Shawn.Host\EventBusOne\obj\Debug\netcoreapp2.2\EventBusOne.csproj.CoreCompileInputs.cache
+F:\MyTest\ShawnMicroServer\Shawn.Host\EventBusOne\obj\Debug\netcoreapp2.2\EventBusOne.AssemblyInfoInputs.cache
+F:\MyTest\ShawnMicroServer\Shawn.Host\EventBusOne\obj\Debug\netcoreapp2.2\EventBusOne.AssemblyInfo.cs
+F:\MyTest\ShawnMicroServer\Shawn.Host\EventBusOne\obj\Debug\netcoreapp2.2\EventBusOne.csproj.CopyComplete
+F:\MyTest\ShawnMicroServer\Shawn.Host\EventBusOne\obj\Debug\netcoreapp2.2\EventBusOne.dll
+F:\MyTest\ShawnMicroServer\Shawn.Host\EventBusOne\obj\Debug\netcoreapp2.2\EventBusOne.pdb
+F:\MyTest\ShawnMicroServer\Shawn.Host\EventBusOne\obj\Debug\netcoreapp2.2\EventBusOne.genruntimeconfig.cache
