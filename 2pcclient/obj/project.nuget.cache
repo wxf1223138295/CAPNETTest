@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Q7VL0U5onyNfi3NrjPH2/iUcvBy9cuaiNVMDBGP7kHlFTvt2ppKeY9xpEE36M8SFsLb3lfuVN5rRhOYpun89Zw==",
+  "dgSpecHash": "mjoaOF6T2w0wA1bvj0DEnwW03q/brg1+MXMA0SrZu++FMtT20VXQMMM7U4W6Ia0EKFvT0OvW/PvwB0/ix8qk6Q==",
   "success": true,
-  "projectFilePath": "D:\\Data\\Project\\MyTest\\Shawn.Host\\2pcclient\\2pcclient.csproj",
+  "projectFilePath": "D:\\Data\\Project\\MyTest\\CAPNETTest\\2pcclient\\2pcclient.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

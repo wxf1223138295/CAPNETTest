@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tiCIx9qsyYAxGKkwnLXn+V9K6EfuQsCWKcCzDtivAj6N/TnAWDa2XU1bGpe1aXM78nZ67S+Px348MvordtFrzQ==",
+  "dgSpecHash": "JYlkNfiIun2H0cEaHJNFod/touDK0+AB+r9ixU0/TGMHqDDL706m9EE+/9EBzafrl2+qyvdIRI9cjUX2N1IoCg==",
   "success": true,
-  "projectFilePath": "D:\\Data\\Project\\MyTest\\Shawn.Host\\Order.Api\\Order.Api.csproj",
+  "projectFilePath": "D:\\Data\\Project\\MyTest\\CAPNETTest\\Order.Api\\Order.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\synyi\\.nuget\\packages\\bouncycastle.netcore\\1.8.3\\bouncycastle.netcore.1.8.3.nupkg.sha512",
     "C:\\Users\\synyi\\.nuget\\packages\\consul\\0.7.2.6\\consul.0.7.2.6.nupkg.sha512",
@@ -176,9 +176,7 @@
     "C:\\Users\\synyi\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
     "C:\\Users\\synyi\\.nuget\\packages\\system.xml.xmldocument\\4.0.1\\system.xml.xmldocument.4.0.1.nupkg.sha512",
     "C:\\Users\\synyi\\.nuget\\packages\\system.xml.xpath\\4.0.1\\system.xml.xpath.4.0.1.nupkg.sha512",
-    "C:\\Users\\synyi\\.nuget\\packages\\system.xml.xpath.xmldocument\\4.0.1\\system.xml.xpath.xmldocument.4.0.1.nupkg.sha512",
-    "C:\\Users\\synyi\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512",
-    "C:\\Users\\synyi\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.2\\microsoft.netcore.app.host.win-x64.3.1.2.nupkg.sha512"
+    "C:\\Users\\synyi\\.nuget\\packages\\system.xml.xpath.xmldocument\\4.0.1\\system.xml.xpath.xmldocument.4.0.1.nupkg.sha512"
   ],
   "logs": []
 }

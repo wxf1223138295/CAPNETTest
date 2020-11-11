@@ -918,11 +918,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Data\\Project\\MyTest\\Shawn.Host\\Geteway.Api\\Geteway.Api.csproj",
+      "projectUniqueName": "D:\\Data\\Project\\MyTest\\CAPNETTest\\Geteway.Api\\Geteway.Api.csproj",
       "projectName": "Geteway.Api",
-      "projectPath": "D:\\Data\\Project\\MyTest\\Shawn.Host\\Geteway.Api\\Geteway.Api.csproj",
+      "projectPath": "D:\\Data\\Project\\MyTest\\CAPNETTest\\Geteway.Api\\Geteway.Api.csproj",
       "packagesPath": "C:\\Users\\synyi\\.nuget\\packages\\",
-      "outputPath": "D:\\Data\\Project\\MyTest\\Shawn.Host\\Geteway.Api\\obj\\",
+      "outputPath": "D:\\Data\\Project\\MyTest\\CAPNETTest\\Geteway.Api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\synyi\\AppData\\Roaming\\NuGet\\NuGet.Config",

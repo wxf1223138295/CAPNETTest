@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uLudri9rKD+3yF4jO8SjIM933hSTirc1HTIH1HPAC0H/eX9fUmNw5PFaYAWB6eoxuvXCsr7fMVfxirbIAHmtkw==",
+  "dgSpecHash": "mMjQ20DPkOqSfvyZRCrTe742iQ4xIfRsqb28NZZQHxUGaWdSrIP/n83pX3wXUlbECqKKcvB/nxe/hbNQdnq6XA==",
   "success": true,
-  "projectFilePath": "D:\\Data\\Project\\MyTest\\Shawn.Host\\TestMqRabbit3\\TestMqRabbit3.csproj",
+  "projectFilePath": "D:\\Data\\Project\\MyTest\\CAPNETTest\\TestMqRabbit3\\TestMqRabbit3.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\synyi\\.nuget\\packages\\rabbitmq.client\\6.0.0\\rabbitmq.client.6.0.0.nupkg.sha512",
     "C:\\Users\\synyi\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512"

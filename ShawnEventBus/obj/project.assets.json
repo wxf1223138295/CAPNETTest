@@ -3808,11 +3808,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Data\\Project\\MyTest\\Shawn.Host\\ShawnEventBus\\ShawnEventBus.csproj",
+      "projectUniqueName": "D:\\Data\\Project\\MyTest\\CAPNETTest\\ShawnEventBus\\ShawnEventBus.csproj",
       "projectName": "ShawnEventBus",
-      "projectPath": "D:\\Data\\Project\\MyTest\\Shawn.Host\\ShawnEventBus\\ShawnEventBus.csproj",
+      "projectPath": "D:\\Data\\Project\\MyTest\\CAPNETTest\\ShawnEventBus\\ShawnEventBus.csproj",
       "packagesPath": "C:\\Users\\synyi\\.nuget\\packages\\",
-      "outputPath": "D:\\Data\\Project\\MyTest\\Shawn.Host\\ShawnEventBus\\obj\\",
+      "outputPath": "D:\\Data\\Project\\MyTest\\CAPNETTest\\ShawnEventBus\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\synyi\\AppData\\Roaming\\NuGet\\NuGet.Config",

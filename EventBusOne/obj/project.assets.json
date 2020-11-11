@@ -5767,11 +5767,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Data\\Project\\MyTest\\Shawn.Host\\EventBusOne\\EventBusOne.csproj",
+      "projectUniqueName": "D:\\Data\\Project\\MyTest\\CAPNETTest\\EventBusOne\\EventBusOne.csproj",
       "projectName": "EventBusOne",
-      "projectPath": "D:\\Data\\Project\\MyTest\\Shawn.Host\\EventBusOne\\EventBusOne.csproj",
+      "projectPath": "D:\\Data\\Project\\MyTest\\CAPNETTest\\EventBusOne\\EventBusOne.csproj",
       "packagesPath": "C:\\Users\\synyi\\.nuget\\packages\\",
-      "outputPath": "D:\\Data\\Project\\MyTest\\Shawn.Host\\EventBusOne\\obj\\",
+      "outputPath": "D:\\Data\\Project\\MyTest\\CAPNETTest\\EventBusOne\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\synyi\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5787,8 +5787,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "D:\\Data\\Project\\MyTest\\Shawn.Host\\ShawnEventBus\\ShawnEventBus.csproj": {
-              "projectPath": "D:\\Data\\Project\\MyTest\\Shawn.Host\\ShawnEventBus\\ShawnEventBus.csproj"
+            "D:\\Data\\Project\\MyTest\\CAPNETTest\\ShawnEventBus\\ShawnEventBus.csproj": {
+              "projectPath": "D:\\Data\\Project\\MyTest\\CAPNETTest\\ShawnEventBus\\ShawnEventBus.csproj"
             }
           }
         }

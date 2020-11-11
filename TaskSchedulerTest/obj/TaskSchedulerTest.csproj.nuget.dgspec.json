@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Data\\Project\\MyTest\\Shawn.Host\\TaskSchedulerTest\\TaskSchedulerTest.csproj": {}
+    "D:\\Data\\Project\\MyTest\\CAPNETTest\\TaskSchedulerTest\\TaskSchedulerTest.csproj": {}
   },
   "projects": {
-    "D:\\Data\\Project\\MyTest\\Shawn.Host\\TaskSchedulerTest\\TaskSchedulerTest.csproj": {
+    "D:\\Data\\Project\\MyTest\\CAPNETTest\\TaskSchedulerTest\\TaskSchedulerTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Data\\Project\\MyTest\\Shawn.Host\\TaskSchedulerTest\\TaskSchedulerTest.csproj",
+        "projectUniqueName": "D:\\Data\\Project\\MyTest\\CAPNETTest\\TaskSchedulerTest\\TaskSchedulerTest.csproj",
         "projectName": "TaskSchedulerTest",
-        "projectPath": "D:\\Data\\Project\\MyTest\\Shawn.Host\\TaskSchedulerTest\\TaskSchedulerTest.csproj",
+        "projectPath": "D:\\Data\\Project\\MyTest\\CAPNETTest\\TaskSchedulerTest\\TaskSchedulerTest.csproj",
         "packagesPath": "C:\\Users\\synyi\\.nuget\\packages\\",
-        "outputPath": "D:\\Data\\Project\\MyTest\\Shawn.Host\\TaskSchedulerTest\\obj\\",
+        "outputPath": "D:\\Data\\Project\\MyTest\\CAPNETTest\\TaskSchedulerTest\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\synyi\\AppData\\Roaming\\NuGet\\NuGet.Config",

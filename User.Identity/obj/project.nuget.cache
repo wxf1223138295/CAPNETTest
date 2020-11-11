@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "L+i4Qt7fJggmYtgrVci/zxG8p2mjuwaJVlbXlsA0PsOdfjH8i2LjtKIcUZCErgy5/PYHbVzgx1/h7mLxMCRzwQ==",
+  "dgSpecHash": "36RFJY2DIRxJHGHKtDb85GkW8PwvLIfT/Ni1cv6pEoGaUTW3JsSv6UwNOWP4ohThv+VzLapH1qZqxnKFGrrJiQ==",
   "success": true,
-  "projectFilePath": "D:\\Data\\Project\\MyTest\\Shawn.Host\\User.Identity\\User.Identity.csproj",
+  "projectFilePath": "D:\\Data\\Project\\MyTest\\CAPNETTest\\User.Identity\\User.Identity.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\synyi\\.nuget\\packages\\autofac\\5.0.0\\autofac.5.0.0.nupkg.sha512",
     "C:\\Users\\synyi\\.nuget\\packages\\autofac.extensions.dependencyinjection\\6.0.0\\autofac.extensions.dependencyinjection.6.0.0.nupkg.sha512",

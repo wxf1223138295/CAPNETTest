@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Data\\Project\\MyTest\\Shawn.Host\\TestMqRabbit\\TestMqRabbit.csproj": {}
+    "D:\\Data\\Project\\MyTest\\CAPNETTest\\TestMqRabbit\\TestMqRabbit.csproj": {}
   },
   "projects": {
-    "D:\\Data\\Project\\MyTest\\Shawn.Host\\TestMqRabbit\\TestMqRabbit.csproj": {
+    "D:\\Data\\Project\\MyTest\\CAPNETTest\\TestMqRabbit\\TestMqRabbit.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Data\\Project\\MyTest\\Shawn.Host\\TestMqRabbit\\TestMqRabbit.csproj",
+        "projectUniqueName": "D:\\Data\\Project\\MyTest\\CAPNETTest\\TestMqRabbit\\TestMqRabbit.csproj",
         "projectName": "TestMqRabbit",
-        "projectPath": "D:\\Data\\Project\\MyTest\\Shawn.Host\\TestMqRabbit\\TestMqRabbit.csproj",
+        "projectPath": "D:\\Data\\Project\\MyTest\\CAPNETTest\\TestMqRabbit\\TestMqRabbit.csproj",
         "packagesPath": "C:\\Users\\synyi\\.nuget\\packages\\",
-        "outputPath": "D:\\Data\\Project\\MyTest\\Shawn.Host\\TestMqRabbit\\obj\\",
+        "outputPath": "D:\\Data\\Project\\MyTest\\CAPNETTest\\TestMqRabbit\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\synyi\\AppData\\Roaming\\NuGet\\NuGet.Config",

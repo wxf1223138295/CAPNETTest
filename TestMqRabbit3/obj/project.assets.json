@@ -80,11 +80,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Data\\Project\\MyTest\\Shawn.Host\\TestMqRabbit3\\TestMqRabbit3.csproj",
+      "projectUniqueName": "D:\\Data\\Project\\MyTest\\CAPNETTest\\TestMqRabbit3\\TestMqRabbit3.csproj",
       "projectName": "TestMqRabbit3",
-      "projectPath": "D:\\Data\\Project\\MyTest\\Shawn.Host\\TestMqRabbit3\\TestMqRabbit3.csproj",
+      "projectPath": "D:\\Data\\Project\\MyTest\\CAPNETTest\\TestMqRabbit3\\TestMqRabbit3.csproj",
       "packagesPath": "C:\\Users\\synyi\\.nuget\\packages\\",
-      "outputPath": "D:\\Data\\Project\\MyTest\\Shawn.Host\\TestMqRabbit3\\obj\\",
+      "outputPath": "D:\\Data\\Project\\MyTest\\CAPNETTest\\TestMqRabbit3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\synyi\\AppData\\Roaming\\NuGet\\NuGet.Config",

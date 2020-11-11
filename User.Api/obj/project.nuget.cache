@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "StWk3ijUi+cv/xMcLSvLKlYgSB0i1gJ6zkjFow3u2LT8z4awNe5iWQLb3K2mbAGA0ZtwL239/16kQ61guMgtPw==",
+  "dgSpecHash": "snMVL0WmT+0pRGa0qGy/xsmrDy3k4YWbIuN+bNmiPpAcs34UsB/ojgXxEdAaZt1M0x3GLF/ZMISpW1qaBaB0CQ==",
   "success": true,
-  "projectFilePath": "D:\\Data\\Project\\MyTest\\Shawn.Host\\User.Api\\User.Api.csproj",
+  "projectFilePath": "D:\\Data\\Project\\MyTest\\CAPNETTest\\User.Api\\User.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\synyi\\.nuget\\packages\\bouncycastle.netcore\\1.8.3\\bouncycastle.netcore.1.8.3.nupkg.sha512",
     "C:\\Users\\synyi\\.nuget\\packages\\consul\\0.7.2.6\\consul.0.7.2.6.nupkg.sha512",

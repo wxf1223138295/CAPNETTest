@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ci/1ol+19d4OUtx1HiyjfTPZUvnQbehTuhlx9h4nAm1X1Rdi4blHbvvKNzgGoqc89sTay9n47fjD1EDI5eWVVw==",
+  "dgSpecHash": "L7vVEGASDXhTBhiWiCKa2surc17hvGvHv3/qDw1DxfeyIdRidJXP77xz6xDrD6sWTxCteoU3fZLuj8lLI/XPIQ==",
   "success": true,
-  "projectFilePath": "D:\\Data\\Project\\MyTest\\Shawn.Host\\ShawnEventBus\\ShawnEventBus.csproj",
+  "projectFilePath": "D:\\Data\\Project\\MyTest\\CAPNETTest\\ShawnEventBus\\ShawnEventBus.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\synyi\\.nuget\\packages\\castle.core\\4.4.1\\castle.core.4.4.1.nupkg.sha512",
     "C:\\Users\\synyi\\.nuget\\packages\\castle.windsor\\5.0.1\\castle.windsor.5.0.1.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GhkARN6WJTyuzwViRMuLLG67dOvV94vJ7elKpl0hunoWbWYY2/xQOyQrjVQbeSD8MSdfzUUJeDrZZLxc4ZJs7g==",
+  "dgSpecHash": "Y/9TRuD/ZdtwM3Rr+s2WOHcKdTxspMO5Px4z4J3b5ECPf7K/28oT2VeY50REHdkiVvOHmigTxMYCRiMzW4O1yw==",
   "success": true,
-  "projectFilePath": "D:\\Data\\Project\\MyTest\\Shawn.Host\\EventBusOne\\EventBusOne.csproj",
+  "projectFilePath": "D:\\Data\\Project\\MyTest\\CAPNETTest\\EventBusOne\\EventBusOne.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\synyi\\.nuget\\packages\\automatonymous\\4.2.1\\automatonymous.4.2.1.nupkg.sha512",
     "C:\\Users\\synyi\\.nuget\\packages\\castle.core\\4.4.1\\castle.core.4.4.1.nupkg.sha512",

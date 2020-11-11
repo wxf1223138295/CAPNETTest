@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2Eiul8vxBp44vq4AfNz4AHaFqORfB1H9lF+UGburQENJWvpXhz5ZU+Dycmmn2ek7DWV7az5Fusa6YREcvWwfrw==",
+  "dgSpecHash": "Mj772T4dN5u20OhcTFvCxF9DPsw+7mo4r2plwD9zivKHycTiV4K9AJrMoEMxZQ5Qtw17MGx61yTsFVBid0wgvw==",
   "success": true,
-  "projectFilePath": "D:\\Data\\Project\\MyTest\\Shawn.Host\\testclient\\testclient.csproj",
+  "projectFilePath": "D:\\Data\\Project\\MyTest\\CAPNETTest\\testclient\\testclient.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\synyi\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\synyi\\.nuget\\packages\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",

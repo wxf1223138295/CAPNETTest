@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Data\\Project\\MyTest\\Shawn.Host\\User.Api\\User.Api.csproj": {}
+    "D:\\Data\\Project\\MyTest\\CAPNETTest\\User.Api\\User.Api.csproj": {}
   },
   "projects": {
-    "D:\\Data\\Project\\MyTest\\Shawn.Host\\User.Api\\User.Api.csproj": {
+    "D:\\Data\\Project\\MyTest\\CAPNETTest\\User.Api\\User.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Data\\Project\\MyTest\\Shawn.Host\\User.Api\\User.Api.csproj",
+        "projectUniqueName": "D:\\Data\\Project\\MyTest\\CAPNETTest\\User.Api\\User.Api.csproj",
         "projectName": "User.Api",
-        "projectPath": "D:\\Data\\Project\\MyTest\\Shawn.Host\\User.Api\\User.Api.csproj",
+        "projectPath": "D:\\Data\\Project\\MyTest\\CAPNETTest\\User.Api\\User.Api.csproj",
         "packagesPath": "C:\\Users\\synyi\\.nuget\\packages\\",
-        "outputPath": "D:\\Data\\Project\\MyTest\\Shawn.Host\\User.Api\\obj\\",
+        "outputPath": "D:\\Data\\Project\\MyTest\\CAPNETTest\\User.Api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\synyi\\AppData\\Roaming\\NuGet\\NuGet.Config",

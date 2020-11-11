@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RJRbzgkMOee+4v1H5CRs6gSZgk/erP7byomZQQA7r+XPhH6TowHQCh8fjXTyfrhwVGbJVpYrNaOKile/gXYiCQ==",
+  "dgSpecHash": "BjvSqmG/eqnCRy+rk3MlEGia5nArxbxAjCohCY44+PQZNTdYQxgq6gnWn8n6WnK8xD871Xh+E9tnMkVxsr1F9A==",
   "success": true,
-  "projectFilePath": "D:\\Data\\Project\\MyTest\\Shawn.Host\\Shawn.Component\\Shawn.Component.csproj",
+  "projectFilePath": "D:\\Data\\Project\\MyTest\\CAPNETTest\\Shawn.Component\\Shawn.Component.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\synyi\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.3\\microsoft.extensions.logging.abstractions.3.1.3.nupkg.sha512",
     "C:\\Users\\synyi\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",

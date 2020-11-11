@@ -6069,11 +6069,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Data\\Project\\MyTest\\Shawn.Host\\testclient\\testclient.csproj",
+      "projectUniqueName": "D:\\Data\\Project\\MyTest\\CAPNETTest\\testclient\\testclient.csproj",
       "projectName": "testclient",
-      "projectPath": "D:\\Data\\Project\\MyTest\\Shawn.Host\\testclient\\testclient.csproj",
+      "projectPath": "D:\\Data\\Project\\MyTest\\CAPNETTest\\testclient\\testclient.csproj",
       "packagesPath": "C:\\Users\\synyi\\.nuget\\packages\\",
-      "outputPath": "D:\\Data\\Project\\MyTest\\Shawn.Host\\testclient\\obj\\",
+      "outputPath": "D:\\Data\\Project\\MyTest\\CAPNETTest\\testclient\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\synyi\\AppData\\Roaming\\NuGet\\NuGet.Config",

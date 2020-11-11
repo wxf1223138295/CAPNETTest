@@ -8793,11 +8793,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Data\\Project\\MyTest\\Shawn.Host\\Payment.Api\\Payment.Api.csproj",
+      "projectUniqueName": "D:\\Data\\Project\\MyTest\\CAPNETTest\\Payment.Api\\Payment.Api.csproj",
       "projectName": "Payment.Api",
-      "projectPath": "D:\\Data\\Project\\MyTest\\Shawn.Host\\Payment.Api\\Payment.Api.csproj",
+      "projectPath": "D:\\Data\\Project\\MyTest\\CAPNETTest\\Payment.Api\\Payment.Api.csproj",
       "packagesPath": "C:\\Users\\synyi\\.nuget\\packages\\",
-      "outputPath": "D:\\Data\\Project\\MyTest\\Shawn.Host\\Payment.Api\\obj\\",
+      "outputPath": "D:\\Data\\Project\\MyTest\\CAPNETTest\\Payment.Api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\synyi\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -8883,16 +8883,6 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[3.1.2, 3.1.2]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Host.win-x64",
-            "version": "[3.1.2, 3.1.2]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.AspNetCore.App": {
             "privateAssets": "none"
@@ -8901,7 +8891,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100-preview.7.20366.6\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
       }
     }
   }

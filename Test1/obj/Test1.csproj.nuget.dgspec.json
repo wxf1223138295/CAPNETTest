@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Data\\Project\\MyTest\\Shawn.Host\\Test1\\Test1.csproj": {}
+    "D:\\Data\\Project\\MyTest\\CAPNETTest\\Test1\\Test1.csproj": {}
   },
   "projects": {
-    "D:\\Data\\Project\\MyTest\\Shawn.Host\\Test1\\Test1.csproj": {
+    "D:\\Data\\Project\\MyTest\\CAPNETTest\\Test1\\Test1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Data\\Project\\MyTest\\Shawn.Host\\Test1\\Test1.csproj",
+        "projectUniqueName": "D:\\Data\\Project\\MyTest\\CAPNETTest\\Test1\\Test1.csproj",
         "projectName": "Test1",
-        "projectPath": "D:\\Data\\Project\\MyTest\\Shawn.Host\\Test1\\Test1.csproj",
+        "projectPath": "D:\\Data\\Project\\MyTest\\CAPNETTest\\Test1\\Test1.csproj",
         "packagesPath": "C:\\Users\\synyi\\.nuget\\packages\\",
-        "outputPath": "D:\\Data\\Project\\MyTest\\Shawn.Host\\Test1\\obj\\",
+        "outputPath": "D:\\Data\\Project\\MyTest\\CAPNETTest\\Test1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\synyi\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -908,11 +908,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Data\\Project\\MyTest\\Shawn.Host\\User.Identity\\User.Identity.csproj",
+      "projectUniqueName": "D:\\Data\\Project\\MyTest\\CAPNETTest\\User.Identity\\User.Identity.csproj",
       "projectName": "User.Identity",
-      "projectPath": "D:\\Data\\Project\\MyTest\\Shawn.Host\\User.Identity\\User.Identity.csproj",
+      "projectPath": "D:\\Data\\Project\\MyTest\\CAPNETTest\\User.Identity\\User.Identity.csproj",
       "packagesPath": "C:\\Users\\synyi\\.nuget\\packages\\",
-      "outputPath": "D:\\Data\\Project\\MyTest\\Shawn.Host\\User.Identity\\obj\\",
+      "outputPath": "D:\\Data\\Project\\MyTest\\CAPNETTest\\User.Identity\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\synyi\\AppData\\Roaming\\NuGet\\NuGet.Config",
